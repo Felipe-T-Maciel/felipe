@@ -2,7 +2,7 @@
 
 - 🔭 Colaborador da empresa <b>WEG</b>
 - 🌱 Atualmente aprendendo full-stack
-<p>
+<p style="display: flex; align-items: center">
             - 📫 Como entrar em contato comigo: <a href="https://www.instagram.com/_fenipee">Instagram</a>, <a href="https://www.linkedin.com/in/felipe-tomio-582219287/" >
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40" />
           </a>
